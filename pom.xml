@@ -99,5 +99,20 @@
       </plugin>
     </plugins>
   </build>
+  
+  	<profiles>
+		<profile>
+			<id>dev</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<property>
+                  <name>env</name>
+                  <value>dev</value>
+            </property>
+
+
+		</profile>
+	</profiles>
 
 </project>
