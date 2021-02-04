@@ -27,7 +27,6 @@ import mx.com.prosa.poc.to.Response;
  */
 @RestController
 @RequestMapping("/v1/ip")
-@BusinessExceptionInterceptor
 @CrossOrigin
 public class IpsController extends AbstractBaseController {
 
