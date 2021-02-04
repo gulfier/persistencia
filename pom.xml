@@ -106,11 +106,6 @@
 			<activation>
 				<activeByDefault>true</activeByDefault>
 			</activation>
-			<property>
-                  <name>env</name>
-                  <value>dev</value>
-            </property>
-
 
 		</profile>
 	</profiles>
