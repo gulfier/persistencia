@@ -102,7 +102,7 @@
   
   	<profiles>
 		<profile>
-			<id>Popenshift</id>
+			<id>openshift</id>
 			<activation>
 				<activeByDefault>true</activeByDefault>
 			</activation>
